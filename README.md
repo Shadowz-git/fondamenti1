@@ -7,6 +7,7 @@ Ragionamento applicato all'interno dell'esercizio non spiegato.
 - [X] Caricare gli esercizi
 
 ## TODO
+- [] Aggiungere gli esercizi mancanti
 - [] Commentare gli esercizi
 - [] Ottimizzazione varie
 - [] Sistemare il README
