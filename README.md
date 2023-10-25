@@ -4,6 +4,6 @@ Esercizi fatti durante il primo semestre del corso di laurea in Informatica all'
 Ragionamento applicato all'interno dell'esercizio non spiegato.
 
 ## TODO
-[] Commentare gli esercizi
-[] Ottimizzazione varie
-[] Sistemare il README
+- [] Commentare gli esercizi
+- [] Ottimizzazione varie
+- [] Sistemare il README
